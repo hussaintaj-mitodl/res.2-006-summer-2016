@@ -15,7 +15,7 @@ This page focuses on the _Girls Who Build Cameras_ workshop as it was facilitat
 
 The _Girls Who Build Cameras_ workshop for high school girls was a one-day, hands-on introduction to camera physics and technology (i.e. how Instagram works!) at the MIT Lincoln Laboratory Beaverworks Center. The workshop included tearing down old dSLR cameras, building a Raspberry Pi camera, and coding Instagram filters and Photoshop tools. Participants also listened to keynote speakers from the camera technology industry, including Kris Clark who engineers space cameras for NASA and MIT Lincoln Laboratory, and Uyanga Tsedev who creates imaging probes at MIT to help surgeons find tumors. During lunch, representatives from the Society of Women Engineers and the Women Technology Program at MIT presented future opportunities to get involved in engineering in high school and college.
 
-The workshop was a collaborative effort facilitated by 50 volunteers from several entities, including [MIT Lincoln Laboratory](http://www.ll.mit.edu), [Fathom](https://fathom.info), [Society of Women Engineers](http://societyofwomenengineers.swe.org), the [MIT Mechanical Engineering Department](http://meche.mit.edu), [MIT Women's Technology Program](http://wtp.mit.edu), and [DotProduct](https://www.dotproduct3d.com). 
+The workshop was a collaborative effort facilitated by 50 volunteers from several entities, including {{% resource_link "fc3d2009-69b6-4529-b50f-55da3ea9d5cf" "MIT Lincoln Laboratory" %}}, {{% resource_link "ee817468-44c7-4e16-bfdd-a4ecf3da9472" "Fathom" %}}, {{% resource_link "a7e0c758-a45c-43bf-bb31-b276574cccab" "Society of Women Engineers" %}}, the {{% resource_link "4c8f84c3-f87c-4013-a6de-b726b1a3d1e4" "MIT Mechanical Engineering Department" %}}, {{% resource_link "82b09d6a-b9bd-4fe7-8182-d3c65a957e24" "MIT Women's Technology Program" %}}, and {{% resource_link "a9b26487-1399-4e2d-9c14-6c55256a25a9" "DotProduct" %}}. 
 
 ## Intended Workshop Outcomes
 
@@ -25,7 +25,7 @@ The workshop was a collaborative effort facilitated by 50 volunteers from severa
 - Collaborate and problem solve as a team
 - Gain basic understanding of camera technology and image processing
 - Challenge stereotypes of who engineers are and what they do
-- Build a [Raspberry Pi](https://www.raspberrypi.org/about/) camera
+- Build a {{% resource_link "0ef2b8eb-20aa-481a-98f2-56112071ea8d" "Raspberry Pi" %}} camera
 - Program image filters
 
 {{< anchor "insights" >}}{{< /anchor >}}
