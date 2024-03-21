@@ -17,11 +17,11 @@ Description
 
 ### What is the Girls Who Build Cameras Program?
 
-The Girls Who Build Cameras workshop for high school girls is a one-day, hands-on introduction to camera technology (i.e. how Instagram works) at the [MIT Lincoln Laboratory Beaverworks Center](https://beaverworks.ll.mit.edu/CMS/bw/). It consists of two major projects: Building a camera and programming image filters.
+The Girls Who Build Cameras workshop for high school girls is a one-day, hands-on introduction to camera technology (i.e. how Instagram works) at the {{% resource_link "925b2320-6f3f-4e08-a525-3c848072e4d3" "MIT Lincoln Laboratory Beaverworks Center" %}}. It consists of two major projects: Building a camera and programming image filters.
 
 ### What Will the Participants Do?
 
-The workshop includes tearing down old digital cameras, building a Raspberry Pi camera, and coding Instagram filters and Photoshop tools. Participants also get to listen to keynote speakers from the camera technology industry, including Kris Clark who engineers space cameras for NASA and MIT Lincoln Laboratory, and Uyanga Tsedev who creates imaging probes to help surgeons find tumors at MIT. During lunch, representatives from the [Society of Women Engineers](http://societyofwomenengineers.swe.org/) and the [Women's Technology Program](http://wtp.mit.edu/) at MIT will present future opportunities to get involved in engineering in high school and college.
+The workshop includes tearing down old digital cameras, building a Raspberry Pi camera, and coding Instagram filters and Photoshop tools. Participants also get to listen to keynote speakers from the camera technology industry, including Kris Clark who engineers space cameras for NASA and MIT Lincoln Laboratory, and Uyanga Tsedev who creates imaging probes to help surgeons find tumors at MIT. During lunch, representatives from the {{% resource_link "2d6f2b07-c091-4a95-a53a-8a8a3b6d3ce8" "Society of Women Engineers" %}} and the {{% resource_link "85768430-0b41-4b2c-9ad9-502d354ad835" "Women's Technology Program" %}} at MIT will present future opportunities to get involved in engineering in high school and college.
 
 Grading
 -------

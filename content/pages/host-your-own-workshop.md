@@ -11,7 +11,7 @@ uid: c67fc51e-79d4-d91b-b9aa-7a48945edead
 Overview
 --------
 
-These materials were used to run the workshop at [MIT Lincoln Laboratory's Beaver Works Center](https://beaverworks.ll.mit.edu/CMS/bw/) in June 2016.
+These materials were used to run the workshop at {{% resource_link "925b2320-6f3f-4e08-a525-3c848072e4d3" "MIT Lincoln Laboratory's Beaver Works Center" %}} in June 2016.
 
 Promotional Video
 -----------------
